@@ -1,0 +1,3 @@
+[submodule "rpi-rgb-led-matrix-cutdown"]
+	path = rpi-rgb-led-matrix-cutdown
+	url = git@github.com:william-redenbaugh/rpi-rgb-led-matrix-cutdown.git
